@@ -38,7 +38,9 @@ The model was evaluated using:
 
 ## 📈 Visualization
 
-The project includes an Actual vs Predicted House Prices graph to visualize the model's predictions.
+Actual vs Predicted House Prices
+
+The scatter plot below shows the comparison between actual and predicted house prices using Linear Regression.
 
 ## 🙏 Acknowledgement
 
