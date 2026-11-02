@@ -42,6 +42,8 @@ Actual vs Predicted House Prices
 
 The scatter plot below shows the comparison between actual and predicted house prices using Linear Regression.
 
+![Actual vs Predicted House Prices](actual-vs-predicted.png)
+
 ## 🙏 Acknowledgement
 
 Thanks to **Apna College and Shraddha Ma'am** for the guidance and learning resources that helped me understand the Machine Learning concepts used in this project.
